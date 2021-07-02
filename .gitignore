@@ -1,15 +1,16 @@
 .idea
 /venv
 # dependencies
-/node_modules
-/.pnp
-.pnp.js
+react_app/node_modules
+react_app/.pnp
+react_app/.pnp.js
+node_modules
 
 # testing
-/coverage
+react_app/coverage
 
 # production
-/build
+react_app/build
 
 # misc
 .DS_Store
